@@ -1,0 +1,3 @@
+to run example go to root directory and run:
+   * jython main.py - to run with jython
+   * python main.py - to run with python
